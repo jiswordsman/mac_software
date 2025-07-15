@@ -55,3 +55,9 @@ macos常用软件、开发工具，免费破解版。
 
 ### 更多海量书籍
 - [金屋搜索](https://pdfs.top)
+
+# 项目信息
+
+## Star 历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jiswordsman/mac_software&type=Date)](https://www.star-history.com/#jiswordsman/mac_software&Date)
