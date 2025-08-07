@@ -21,8 +21,8 @@ macos常用软件、开发工具，免费破解版。
 
 ### 开发工具
 
-- 2025年7月最新 **Jetbrains全家桶** (**IntelliJ IDEA**、Goland、Webstorm、Pycharm)免费破解激活全教程，支持最新版，简单稳定。支持Macos、Windows、Linux。[教程地址](https://pdfs.top/blog/4xlv)
-- **Navicat Premium** 最新版(17.1.5) MacOS 中文破解版，[下载地址](https://cgfw.top/navicatApp.html)
+- 2025年8月最新 **Jetbrains全家桶** (**IntelliJ IDEA**、Goland、Webstorm、Pycharm)免费破解激活全教程，支持最新版，简单稳定。支持Macos、Windows、Linux。[教程地址](https://pdfs.top/blog/4xlv#github)
+- **Navicat Premium** 最新版(17.3.1) MacOS 中文破解版，支持AI，支持国产化数据库（达梦等），[下载地址](https://pdfs.top/blog/tbn9#github)
 
 ### 设计工具
 
