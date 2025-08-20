@@ -13,6 +13,7 @@ macos常用软件、开发工具，免费破解版。
 - **IShot Pro** 截图、长截图、全屏带壳截图、贴图、标注、取色、录屏、录音、OCR、翻译一个顶十个，样样皆优秀！[下载地址](https://pan.quark.cn/s/a5a6da78606c)(提取码：izpB)
 - **Microsoft Office 365**（Microsoft Word、Power Point、Excel、OneNote、Outlook，2024、2021、2019、2016多个版本）破解版。[下载地址](https://cgfw.top/office.html)
 - **CleanMyMac X** MacOS专用清理工具，同类产品中的绝对 **Number One**！清爽简洁无广告，功能实用又强大，保证你的Mac长久使用没有烦恼。[下载地址](https://pan.quark.cn/s/35677d810386)
+- **Typora** 最好用的markdown编辑工具，记笔记、记文档最佳推荐。[下载地址](https://pan.quark.cn/s/742f3a508ff9)(提取码：Tpbg)
   
 ### 科学上网
 
