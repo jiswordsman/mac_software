@@ -3,7 +3,7 @@
 - macos免费破解软件下载
 - 免费pdf电子书下载
 - 科学上网教程、工具分享
-- [AI订阅教程](https://pdfs.top/blog/5a43#github)
+- [AI订阅教程（ChatGPT Plus、Claude、Gemini）](https://pdfs.top/blog/5a43#github)
 
 ## macos 破解软件
 macos常用软件、开发工具，免费破解版。
